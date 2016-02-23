@@ -1,10 +1,10 @@
 package johncsharp.sudocul;
 
 import android.app.Fragment;
+import android.os.Bundle;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.LayoutInflater;
-import android.os.Bundle;
 
 public class NinetileFragment extends Fragment {
 

@@ -21,18 +21,21 @@
             android:layout_width="0dp"
             android:layout_height="fill_parent"
             android:layout_weight="1"
+            android:onClick="onButtonClick"
             android:id="@+id/topleft" />
 
         <Button
             android:layout_width="0dp"
             android:layout_height="fill_parent"
             android:layout_weight="1"
+            android:onClick="onButtonClick"
             android:id="@+id/topcenter" />
 
         <Button
             android:layout_width="0dp"
             android:layout_height="fill_parent"
             android:layout_weight="1"
+            android:onClick="onButtonClick"
             android:id="@+id/topright" />
 
     </LinearLayout>
@@ -48,18 +51,21 @@
             android:layout_width="0dp"
             android:layout_height="fill_parent"
             android:layout_weight="1"
+            android:onClick="onButtonClick"
             android:id="@+id/middleleft" />
 
         <Button
             android:layout_width="0dp"
             android:layout_height="fill_parent"
             android:layout_weight="1"
+            android:onClick="onButtonClick"
             android:id="@+id/middlecenter" />
 
         <Button
             android:layout_width="0dp"
             android:layout_height="fill_parent"
             android:layout_weight="1"
+            android:onClick="onButtonClick"
             android:id="@+id/middleright" />
     </LinearLayout>
 
@@ -74,18 +80,21 @@
             android:layout_width="0dp"
             android:layout_height="fill_parent"
             android:layout_weight="1"
+            android:onClick="onButtonClick"
             android:id="@+id/bottomleft" />
 
         <Button
             android:layout_width="0dp"
             android:layout_height="fill_parent"
             android:layout_weight="1"
+            android:onClick="onButtonClick"
             android:id="@+id/bottomcenter" />
 
         <Button
             android:layout_width="0dp"
             android:layout_height="fill_parent"
             android:layout_weight="1"
+            android:onClick="onButtonClick"
             android:id="@+id/bottomright" />
     </LinearLayout>
 </LinearLayout>
